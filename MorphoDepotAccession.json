@@ -1,0 +1,62 @@
+{
+    "specimenSource": [
+        "Is your data from a commercially acquired organism or from an accessioned specimen (i.e., from a natural history collection)?",
+        "Accessioned specimen"
+    ],
+    "iDigBioAccessioned": [
+        "Is your specimen's species in the iDigBio database?",
+        "No"
+    ],
+    "iDigBioURL": [
+        "Enter URL from iDigBio:",
+        "https://portal.idigbio.org/portal/records/8df9a862-a6b1-4f91-964b-ae79db8b96f3"
+    ],
+    "species": [
+        "What is your specimen's species?",
+        "Crotalus intermedius"
+    ],
+    "biologicalSex": [
+        "What is your specimen's sex?",
+        "Unknown"
+    ],
+    "developmentalStage": [
+        "What is your specimen's developmental stage?",
+        "Adult"
+    ],
+    "modality": [
+        "What is the modality of the acquisition?",
+        "Micro CT (or synchrotron)"
+    ],
+    "contrastEnhancement": [
+        "Is there contrast enhancement treatment applied to the specimen (iodine, phosphotungstenic acid, gadolinium, casting agents, etc)?",
+        "No"
+    ],
+    "imageContents": [
+        "What is in the image?",
+        "Partial specimen"
+    ],
+    "anatomicalAreas": [
+        "What anatomical area(s) is/are present in the scan?",
+        [
+            "Head and neck (e.g., cranium, mandible, proximal vertebral colum)",
+            "Pectoral girdle",
+            "Trunk (e.g. body cavity, torso, spine, ribs)"
+        ]
+    ],
+    "redistributionAcknowledgement": [
+        "Acknowledgement:",
+        [
+            "I have the right to allow redistribution of this data."
+        ]
+    ],
+    "license": [
+        "Choose a license:",
+        "CC BY-NC 4.0 (requires attribution, non-commercial usage only)"
+    ],
+    "githubRepoName": [
+        "What should the repository in your github account called? This needs to be unique value for your account.",
+        "Jaimi-Snake"
+    ],
+    "scanDimensions": "(606, 507, 959)",
+    "scanSpacing": "(0.019033600000000005, 0.019033600000000005, 0.019033600000000005)"
+}
